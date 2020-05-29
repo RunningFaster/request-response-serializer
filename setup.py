@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='request_response_json_serializer',
-    version='0.0.1',
+    version='0.0.4',
     description='Python框架Django，Flask序列化request和response',
     long_description=open('README.rst').read(),
     license='License',
